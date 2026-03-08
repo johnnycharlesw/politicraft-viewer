@@ -1,0 +1,8 @@
+{
+    "name": "PHPizza Test Extension",
+    "version": "1.0.0",
+    "author": "John Charles Woods",
+    "description": "A test extension for PHPizza.",
+    "license": "AGPL-3.0-or-later",
+    "usesComposer": false
+}
