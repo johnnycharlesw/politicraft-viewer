@@ -1,8 +1,8 @@
 {
-    "name": "PHPizza Test Extension",
+    "name": "Politicraft Viewer",
     "version": "1.0.0",
     "author": "John Charles Woods",
-    "description": "A test extension for PHPizza.",
+    "description": "Politicraft's Minecraft web spectator mode client.",
     "license": "AGPL-3.0-or-later",
-    "usesComposer": false
+    "usesComposer": true
 }

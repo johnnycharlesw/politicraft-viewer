@@ -1,0 +1,13 @@
+{
+    "name": "johnnycharlesw-github/politicraft-viewer",
+    "description": "This allows you to join in spectator mode on the Politicraft Network website without infringing on Mojang IP.",
+    "authors": [
+        {
+            "name": "John Charles Woods",
+            "email": "woods.johnny.charles@gmail.com"
+        }
+    ],
+    "require": {
+        "FocusPup824\\Politicraft\\Viewer\\": "includes/"
+    }
+}
